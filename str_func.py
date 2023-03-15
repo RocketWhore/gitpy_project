@@ -1,7 +1,7 @@
 
 
 def upper(a):
-    '''все буквы заглавные'''
+    '''все буквы заглавны'''
     return a.upper()
 
 def upper_new(a):
