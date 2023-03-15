@@ -3,6 +3,8 @@ def upper(a):
     return a.upper()
 
 
+
+
 def upper_new(a):
     '''первые буквы главные'''
     return a.title()
