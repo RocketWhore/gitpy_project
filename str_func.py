@@ -4,5 +4,5 @@ def upper(a):
 
 
 def upper_new(a):
-    '''первые буквы заглавные'''
+    '''первые буквы главные'''
     return a.title()
